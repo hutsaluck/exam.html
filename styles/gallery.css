@@ -27,6 +27,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 2vw;
     margin-bottom: 10vh;
+    width: 80vw;
 }
 
 .wrap-photos img{
