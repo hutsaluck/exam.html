@@ -96,7 +96,7 @@ button {
     right: 0;
     height: 727px;
     width: 870px;
-    background-image: url("main.png");
+    background-image: url("../images/main.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
